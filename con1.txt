@@ -1,2 +1,4 @@
-Hi All
-this is master branch file
+
+Hello Everyone
+this is dev branch file
+>>>>>>> dev
